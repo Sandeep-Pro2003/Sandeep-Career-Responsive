@@ -9,11 +9,6 @@ body{
   font-size: 18px;
   color: #444444;
 }
-@media screen and (mix-width: 768px){
-  body{
-    background-color: lightblue;
-  }
-}
 a{
   text-decoration: none;
 }
